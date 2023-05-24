@@ -77,7 +77,8 @@
     "format-linked": "{ifname} (No IP) ",
     "format-disconnected": "<span font='11' color='#313244' weight='bold' stretch='expanded'>󰀦</span>    Disconnected",
     "format-alt": "<span font='11' color='#313244' weight='bold' stretch='expanded'>󰋼</span>     {essid} [{signalStrength}]",
-    "interval": 5
+    "interval": 5, 
+    "on-click": "nm-connection-editor"
   },
   "hyprland/window": {
     "format": "{:.40}",
